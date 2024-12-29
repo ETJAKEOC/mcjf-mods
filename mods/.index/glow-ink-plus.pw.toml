@@ -1,0 +1,16 @@
+filename = 'glow_ink_plus-fabric-1.21.2-1.2.jar'
+name = 'Glow Ink Plus'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6ebe259522f7062c2e9af6a107ef44e9bd5c0db6b995aaa7a32f1f0a974354013c14047769a45bf6b93f73a9248ac4232f6ca1003d3b4bec4f73ad4b91b4b789'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DfZhZ0LX/versions/QTHMzqSC/glow_ink_plus-fabric-1.21.2-1.2.jar'
+
+[update.modrinth]
+mod-id = 'DfZhZ0LX'
+version = 'QTHMzqSC'

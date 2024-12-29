@@ -1,0 +1,16 @@
+filename = 'dungeons+-1.9.0b.jar'
+name = 'Dungeons+'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b72e8bd84d5cdcdcd9c3ba31c7329916de7dd3e86d167267bee11f412cb42443ad2b12f64c9e28fbf430283d767bf0a9fb35005a3001d0e4b5d412438e60bd44'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nHORcEHd/versions/MaPifrAA/dungeons%2B-1.9.0b.jar'
+
+[update.modrinth]
+mod-id = 'nHORcEHd'
+version = 'MaPifrAA'

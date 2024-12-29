@@ -1,0 +1,16 @@
+filename = 'adorabuild-structures-2.9.1-fabric-1.21.4.jar'
+name = 'AdoraBuild: Structures'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '09dd56fb611f7d95d72f94f67484407c3270c6d92f284bdd53e0bbd489282882391fc57481f5a00b589cc5ea1405975fc710a21ba8636d34d09ad42122ae52be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rYlnn25U/versions/luiT5vaw/adorabuild-structures-2.9.1-fabric-1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'rYlnn25U'
+version = 'luiT5vaw'

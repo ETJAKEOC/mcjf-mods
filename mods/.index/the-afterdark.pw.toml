@@ -1,0 +1,16 @@
+filename = 'the_afterdark-1.21.4-fabric-1.0.3.1.jar'
+name = 'The Afterdark'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd50846c05273d0a838cda42261d77b56ec39e2fcf58a3823eb8dd2f65e1dca63dbe903ff6fa762ac821f48a25dab03fcd3f02aa9ec122e078f56d389da6abcd0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EjqfdsbN/versions/5kdZ4xxT/the_afterdark-1.21.4-fabric-1.0.3.1.jar'
+
+[update.modrinth]
+mod-id = 'EjqfdsbN'
+version = '5kdZ4xxT'

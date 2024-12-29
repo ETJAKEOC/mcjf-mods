@@ -1,0 +1,16 @@
+filename = 'dungeons-and-taverns-v4.6.jar'
+name = 'Dungeons and Taverns'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e590953bd84048a3766bfdd0027bf4dc3ef4289dd428ff032e49fb50fc15c3cc4476f50d9fff53b3aee028db002981d4f4f0aeb47d11454a000c54dcc76d0791'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tpehi7ww/versions/PAUVovtf/dungeons-and-taverns-v4.6.jar'
+
+[update.modrinth]
+mod-id = 'tpehi7ww'
+version = 'PAUVovtf'

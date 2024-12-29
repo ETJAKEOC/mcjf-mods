@@ -1,0 +1,16 @@
+filename = 'lootr-fabric-1.21.4-1.12.36.88.jar'
+name = 'Lootr'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '296369e905e9bbca84fbd1bea6714db76c62b626cb56e2cb539a372001c2ece1a29e6fedccaf128216c0e251c3b3a02e7ce30062483b1dc1f8c0510d987e3972'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EltpO5cN/versions/UlwRNO00/lootr-fabric-1.21.4-1.12.36.88.jar'
+
+[update.modrinth]
+mod-id = 'EltpO5cN'
+version = 'UlwRNO00'

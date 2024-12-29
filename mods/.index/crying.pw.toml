@@ -1,0 +1,16 @@
+filename = 'crying-1.0.4.jar'
+name = 'Crying Tools'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8c47c60d89269eadb554502000e90d533e1a54dccdf5cc4c69a4c360346c4eca8c790f61b662844b985f099397b4d80453f0ae3a09f1d86a20e880c89cc254f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ohchLK9l/versions/KCjz6Fno/crying-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'ohchLK9l'
+version = 'KCjz6Fno'
