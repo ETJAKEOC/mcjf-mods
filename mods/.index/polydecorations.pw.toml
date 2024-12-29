@@ -1,0 +1,16 @@
+filename = 'polydecorations-0.6.0+1.21.4-rc3.jar'
+name = 'PolyDecorations'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4', '1.21.4-rc3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1c0b188fce22c16a487ab706593c46faea810a0c28a4c4551ca8d0fdeb90e54e34b49d4b886cf5996d0b13c54f088b8c58edeb0a937f02fbed6473098189e7bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5710VC7f/versions/dhJ5QuLH/polydecorations-0.6.0%2B1.21.4-rc3.jar'
+
+[update.modrinth]
+mod-id = '5710VC7f'
+version = 'dhJ5QuLH'
