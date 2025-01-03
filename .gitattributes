@@ -195,3 +195,6 @@ mods/noisium-fabric-2.5.0+mc1.21.4.jar filter=lfs diff=lfs merge=lfs -text
 mods/panda-tnt-fusion-1.0.0_1.21.4.jar filter=lfs diff=lfs merge=lfs -text
 mods/async-0.1.6+alpha.1-1.21.4.jar filter=lfs diff=lfs merge=lfs -text
 mods/BetterGrassify-1.4.3+fabric.1.21.4.jar filter=lfs diff=lfs merge=lfs -text
+mods/netherited-fabric-1.21.4-2.0.1.jar filter=lfs diff=lfs merge=lfs -text
+fabric-installer-1.0.1.exe filter=lfs diff=lfs merge=lfs -text
+fabric-installer-1.0.1.jar filter=lfs diff=lfs merge=lfs -text
