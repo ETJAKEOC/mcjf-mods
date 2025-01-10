@@ -232,3 +232,6 @@ resourcepacks/No[[:space:]]Pumpkin[[:space:]]Blur[[:space:]]1.21.2[[:space:]]-[[
 resourcepacks/Optimum[[:space:]]Realism[[:space:]]R2.9.0[[:space:]]64x[[:space:]][Kappa,[[:space:]]BSL,etc][[:space:]]WIP.zip filter=lfs diff=lfs merge=lfs -text
 resourcepacks/quieter[[:space:]]pistons[[:space:]]beta_1.7[[:space:]]-[[:space:]]1.21.zip filter=lfs diff=lfs merge=lfs -text
 resourcepacks/enchant[[:space:]]icons[[:space:]]1.21[[:space:]]v1.3.zip filter=lfs diff=lfs merge=lfs -text
+mods filter=lfs diff=lfs merge=lfs -text
+options.txt filter=lfs diff=lfs merge=lfs -text
+resourcepacks filter=lfs diff=lfs merge=lfs -text
