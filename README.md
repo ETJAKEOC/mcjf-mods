@@ -8,6 +8,7 @@ Welcome to this repository! This collection contains mods, shader packs, and res
 1. Press `Win + R`, type `%appdata%`, and press `Enter`.
 2. Navigate to the `.minecraft` folder.
 3. Copy the files as follows:
+   - **Configs**: Place `configs` folder in the Minecraft folder.
    - **Mods**: Place `mods` folder in the Minecraft folder.
    - **Shader Packs**: Place `shaderpacks` folder in the Minecraft folder.
    - **Resource Packs**: Place `resourcepacks` folder in the Minecraft folder.
@@ -18,6 +19,7 @@ Welcome to this repository! This collection contains mods, shader packs, and res
 1. Open a terminal and navigate to your Minecraft directory:
    `cd ~/.minecraft`
 2. Copy the files as follows:
+   - **Configs**: Place `configs` folder in the Minecraft folder.
    - **Mods**: Place `mods` folder in the Minecraft folder.
    - **Shader Packs**: Place `shaderpacks` folder in the Minecraft folder.
    - **Resource Packs**: Place `resourcepacks` folder in the Minecraft folder.
@@ -28,6 +30,7 @@ Welcome to this repository! This collection contains mods, shader packs, and res
 1. Open Prism Launcher and select the Minecraft instance you want to modify.
 2. Click the `Edit Instance` button.
 3. Navigate to the appropriate folders:
+   - **Configs**: Place `configs` folder in the Minecraft folder.
    - **Mods**: Place `mods` folder in the Minecraft folder.
    - **Shader Packs**: Place `shaderpacks` folder in the Minecraft folder.
    - **Resource Packs**: Place `resourcepacks` folder in the Minecraft folder.

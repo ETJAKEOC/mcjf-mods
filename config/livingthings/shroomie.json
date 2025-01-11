@@ -1,0 +1,20 @@
+{
+	"health": 10.0,
+	"movementSpeed": 0.2,
+	"temptRange": 10.0,
+	"maxSpawnedInChunk": 5,
+	"spawnBiomes": [
+		{
+			"weight": 20,
+			"minGroupSize": 5,
+			"maxGroupSize": 7,
+			"biomes": [
+				"minecraft:mushroom_fields"
+			]
+		}
+	],
+	"colorWeights": {
+		"colorBrownWeight": 50,
+		"colorRedWeight": 50
+	}
+}
