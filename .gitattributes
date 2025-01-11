@@ -235,3 +235,5 @@ resourcepacks/enchant[[:space:]]icons[[:space:]]1.21[[:space:]]v1.3.zip filter=l
 mods filter=lfs diff=lfs merge=lfs -text
 options.txt filter=lfs diff=lfs merge=lfs -text
 resourcepacks filter=lfs diff=lfs merge=lfs -text
+mods/c2me-fabric-mc1.21.4-0.3.2+alpha.0.24.jar filter=lfs diff=lfs merge=lfs -text
+mods/FrozenLib-1.9.11-mc1.21.4.jar filter=lfs diff=lfs merge=lfs -text
