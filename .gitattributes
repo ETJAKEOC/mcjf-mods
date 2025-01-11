@@ -237,3 +237,9 @@ options.txt filter=lfs diff=lfs merge=lfs -text
 resourcepacks filter=lfs diff=lfs merge=lfs -text
 mods/c2me-fabric-mc1.21.4-0.3.2+alpha.0.24.jar filter=lfs diff=lfs merge=lfs -text
 mods/FrozenLib-1.9.11-mc1.21.4.jar filter=lfs diff=lfs merge=lfs -text
+mods/limitless-banners-1.2.0.jar filter=lfs diff=lfs merge=lfs -text
+mods/resourcepackchecker-fabric-1.21.4-1.2.2.jar filter=lfs diff=lfs merge=lfs -text
+mods/Stfu-1.2.3.jar filter=lfs diff=lfs merge=lfs -text
+mods/supermartijn642corelib-1.1.18a-fabric-mc1.21.4.jar filter=lfs diff=lfs merge=lfs -text
+mods/fast-ip-ping-v1.0.5-mc1.21.1-fabric.jar filter=lfs diff=lfs merge=lfs -text
+mods/kleeslabs-fabric-1.21.4-21.4.3.jar filter=lfs diff=lfs merge=lfs -text
