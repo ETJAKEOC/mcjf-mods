@@ -245,3 +245,15 @@ mods/fast-ip-ping-v1.0.5-mc1.21.1-fabric.jar filter=lfs diff=lfs merge=lfs -text
 mods/kleeslabs-fabric-1.21.4-21.4.3.jar filter=lfs diff=lfs merge=lfs -text
 mods/balm-fabric-1.21.4-21.4.6.jar filter=lfs diff=lfs merge=lfs -text
 mods/continuity-3.0.0+1.21.4.jar filter=lfs diff=lfs merge=lfs -text
+mods/dragonscalemod-1.1-1.21.4.jar filter=lfs diff=lfs merge=lfs -text
+mods/nemos-creatures-1.21.4-1.8.jar filter=lfs diff=lfs merge=lfs -text
+mods/sodiumextras-fabric-1.0.7-1.21.4.jar filter=lfs diff=lfs merge=lfs -text
+mods/txnilib-fabric-1.0.21-1.21.4.jar filter=lfs diff=lfs merge=lfs -text
+mods/ash2-1.5.0+mc1.21.jar filter=lfs diff=lfs merge=lfs -text
+mods/lavasand-1.21.4-1-fabric.jar filter=lfs diff=lfs merge=lfs -text
+mods/mes-1.4.0-1.21.4.jar filter=lfs diff=lfs merge=lfs -text
+mods/nemos-copper-Fabric-1.21.4-1.2.jar filter=lfs diff=lfs merge=lfs -text
+mods/sodiumoptionsmodcompat-fabric-1.0.0-1.21.4.jar filter=lfs diff=lfs merge=lfs -text
+mods/terrestria-7.2.0-beta.1.jar filter=lfs diff=lfs merge=lfs -text
+mods/FallingTree-1.21.4-1.21.4.2.jar filter=lfs diff=lfs merge=lfs -text
+shaderpacks/PotatoShaders_v1.0d.txt filter=lfs diff=lfs merge=lfs -text
