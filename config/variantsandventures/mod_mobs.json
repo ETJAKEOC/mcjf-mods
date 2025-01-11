@@ -1,26 +1,3 @@
-{
-	"enableGelid": true,
-	"enableGelidSpawns": true,
-	"gelidSpawnChance": 80.0,
-	"gelidMinimumYLevel": -64,
-	"enableGelidSpawners": true,
-	"gelidSpawnerChance": 80.0,
-	"enableGelidSpawnersInTrialChambers": true,
-	"enableMurk": true,
-	"enableMurkSpawns": true,
-	"enableMurkSpawnersInTrialChambers": true,
-	"enableThicket": true,
-	"enableThicketSpawns": true,
-	"thicketSpawnChance": 80.0,
-	"thicketMinimumYLevel": -64,
-	"enableThicketSpawners": true,
-	"thicketSpawnerChance": 80.0,
-	"enableThicketSpawnersInTrialChambers": true,
-	"enableVerdant": true,
-	"enableVerdantSpawns": true,
-	"verdantSpawnChance": 80.0,
-	"verdantMinimumYLevel": -64,
-	"enableVerdantSpawners": true,
-	"verdantSpawnerChance": 80.0,
-	"enableVerdantSpawnersInTrialChambers": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a4aa0a48fac4ca5fd3b27a3e7ba468bd1b74add8937c9dad63c95b9441aadda
+size 749

@@ -1,33 +1,3 @@
-{
-	"health": 10.0,
-	"movementSpeed": 0.17,
-	"temptRange": 10.0,
-	"maxSpawnedInChunk": 5,
-	"spawnBiomes": [
-		{
-			"weight": 50,
-			"minGroupSize": 3,
-			"maxGroupSize": 8,
-			"biomes": [
-				"minecraft:jungle",
-				"minecraft:sparse_jungle"
-			]
-		},
-		{
-			"weight": 25,
-			"minGroupSize": 3,
-			"maxGroupSize": 8,
-			"biomes": [
-				"minecraft:bamboo_jungle"
-			]
-		},
-		{
-			"weight": 10,
-			"minGroupSize": 3,
-			"maxGroupSize": 8,
-			"biomes": [
-				"minecraft:savanna_plateau"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ddea500370b97563e7ac66e5469152263820a20060721adb93b46f2d6b10cb6
+size 496

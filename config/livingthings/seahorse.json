@@ -1,26 +1,3 @@
-{
-	"health": 4.0,
-	"movementSpeed": 0.2,
-	"maxSpawnedInChunk": 6,
-	"spawnBiomes": [
-		{
-			"weight": 19,
-			"minGroupSize": 4,
-			"maxGroupSize": 7,
-			"biomes": [
-				"minecraft:warm_ocean",
-				"minecraft:lukewarm_ocean",
-				"minecraft:deep_lukewarm_ocean",
-				"minecraft:ocean",
-				"minecraft:deep_ocean"
-			]
-		}
-	],
-	"colorWeights": {
-		"colorRedWeight": 20,
-		"colorBlueWeight": 20,
-		"colorGreenWeight": 20,
-		"colorYellowWeight": 20,
-		"colorPurpleWeight": 20
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b6d50b761524fdd184e2b8ee9d7b370d7c8cf6c35fccc22497ffcacdd6dda64
+size 475

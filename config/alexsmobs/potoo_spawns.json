@@ -1,11 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:dark_forest"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:59c5832a40ef0e7212a4d499862f931a5dfcd3ff6d68598153f1274191b0939d
+size 148

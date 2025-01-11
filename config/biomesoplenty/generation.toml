@@ -1,13 +1,3 @@
-[nether]
-	#The weighting of bop biome regions in the nether.
-	bop_nether_region_weight = 13
-	#The weighting of rare bop biome regions in the nether.
-	bop_nether_rare_region_weight = 2
-
-[overworld]
-	#The weighting of primary bop biome regions in the overworld.
-	bop_primary_overworld_region_weight = 10
-	#The weighting of rare bop biome regions in the overworld.
-	bop_overworld_rare_region_weight = 2
-	#The weighting of secondary bop biome regions in the overworld.
-	bop_secondary_overworld_region_weight = 8
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccc1fa8609ad0682df42623818265c46c92dc7b7fe04dce19414ab29aa291a99
+size 508

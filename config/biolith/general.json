@@ -1,6 +1,3 @@
-{
-  "enable_commands": true,
-  "overworld_replacement_scale": 4,
-  "nether_replacement_scale": 2,
-  "end_replacement_scale": 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f32b4edac918ac942931bafd83dc2afd802662459899fe022984393337cf9617
+size 128

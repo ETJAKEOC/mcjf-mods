@@ -1,16 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "minecraft:is_ocean"
-      },
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "forge:is_cold/overworld"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e62ae273c3488a294068e5ed737dbf08791f4758cd3659308824d7bf4ece377
+size 255

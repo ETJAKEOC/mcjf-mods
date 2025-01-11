@@ -1,11 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "minecraft:is_end"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aed14e990ed38ee78214b1ea4a15e06bca1b8d098e1e440596be9ab14e4403b8
+size 139

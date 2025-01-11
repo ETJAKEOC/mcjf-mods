@@ -1,17 +1,3 @@
-{
-	"health": 10.0,
-	"movementSpeed": 0.25,
-	"temptRange": 10.0,
-	"maxSpawnedInChunk": 6,
-	"spawnBiomes": [
-		{
-			"weight": 26,
-			"minGroupSize": 3,
-			"maxGroupSize": 6,
-			"biomes": [
-				"minecraft:river",
-				"minecraft:swamp"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bef0ab78524c6c7777e805e4fb0b9fe767852b09e69f285998ae0daa20592f7
+size 245

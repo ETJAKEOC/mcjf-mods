@@ -1,12 +1,3 @@
-{
-	"health": 250.0,
-	"movementSpeed": 0.25,
-	"attackDamage": 6.0,
-	"chargingTime": 200,
-	"largeFireballAmount": 6,
-	"largeFireballChance": 20,
-	"blazeSpawnCount": 4,
-	"canAttack": true,
-	"canSpawn": true,
-	"peacefulDespawn": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ebb3daf5ca152c5dba141349dcd8b789e3162c74a930606d615cf8111f4cc58
+size 231

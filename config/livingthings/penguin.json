@@ -1,27 +1,3 @@
-{
-	"health": 10.0,
-	"movementSpeed": 0.25,
-	"temptRange": 10.0,
-	"maxSpawnedInChunk": 6,
-	"talkInterval": 180,
-	"spawnBiomes": [
-		{
-			"weight": 12,
-			"minGroupSize": 3,
-			"maxGroupSize": 6,
-			"biomes": [
-				"minecraft:snowy_plains",
-				"minecraft:snowy_slopes",
-				"minecraft:snowy_beach"
-			]
-		},
-		{
-			"weight": 15,
-			"minGroupSize": 3,
-			"maxGroupSize": 6,
-			"biomes": [
-				"minecraft:snowy_taiga"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a8407c58026f90f8b9fcbb15156c401e89287d5adcb3b9dccb7dc2c1b116526
+size 428

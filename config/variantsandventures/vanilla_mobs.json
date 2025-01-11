@@ -1,17 +1,3 @@
-{
-	"enableBetterStraySpawns": true,
-	"straySpawnChance": 80.0,
-	"strayMinimumYLevel": -64,
-	"enableStraySpawners": true,
-	"straySpawnerChance": 80.0,
-	"enableBetterHuskSpawns": true,
-	"huskSpawnChance": 80.0,
-	"huskMinimumYLevel": -64,
-	"enableHuskSpawners": true,
-	"huskSpawnerChance": 80.0,
-	"enableBetterBoggedSpawns": true,
-	"boggedSpawnChance": 80.0,
-	"boggedMinimumYLevel": -64,
-	"enableBoggedSpawners": true,
-	"boggedSpawnerChance": 80.0
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5fa8c73f390b7c90c0675cede5488a792afcf761a6f893ccbcb09dc0da6fafe
+size 446

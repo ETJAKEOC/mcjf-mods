@@ -1,16 +1,3 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "BIOME_TAG",
-        "negate": true,
-        "value": "forge:no_default_monsters"
-      },
-      {
-        "type": "BIOME_TAG",
-        "negate": false,
-        "value": "minecraft:is_nether"
-      }
-    ]
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:47eef91378d3d6455a911d58cc3afdbfcdda7fd49968a7921b22620faa8ff672
+size 257

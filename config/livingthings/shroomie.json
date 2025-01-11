@@ -1,20 +1,3 @@
-{
-	"health": 10.0,
-	"movementSpeed": 0.2,
-	"temptRange": 10.0,
-	"maxSpawnedInChunk": 5,
-	"spawnBiomes": [
-		{
-			"weight": 20,
-			"minGroupSize": 5,
-			"maxGroupSize": 7,
-			"biomes": [
-				"minecraft:mushroom_fields"
-			]
-		}
-	],
-	"colorWeights": {
-		"colorBrownWeight": 50,
-		"colorRedWeight": 50
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6953e9d6acc445fecf6531c5143bf22a05a5dfe17e0a10630bbeb4e3d6c43974
+size 303

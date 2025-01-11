@@ -1,28 +1,3 @@
-{
-  "skipWarning": false,
-  "enableEncryption": false,
-  "encryptPublic": true,
-  "showEncryptionButton": true,
-  "showEncryptionIndicators": true,
-  "encryptionKey": "blfrngArk3chG6wzncOZ5A\u003d\u003d",
-  "encryptionPassphrase": "",
-  "algorithmName": "AES/CFB8+Base64R",
-  "encryptableCommands": [
-    "msg:1",
-    "w:1",
-    "whisper:1",
-    "tell:1",
-    "r:0",
-    "dm:1",
-    "me:0",
-    "m:1",
-    "t:1",
-    "pm:1",
-    "emsg:1",
-    "epm:1",
-    "etell:1",
-    "ewhisper:1",
-    "message:1",
-    "reply:0"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:914ff467c04be14074e19741255b5f890db2bc0458554b984b2c02d3674bb824
+size 521
