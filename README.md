@@ -11,15 +11,16 @@ Welcome to this repository! This collection contains mods, shader packs, and res
 2. Start the instance and enjoy the game!
 
 ### Prism Launcher - Manual method (Windows/Linux)
-1. Open Prism Launcher and select the Minecraft instance you want to modify.
-2. Click the `Edit Instance` button.
-3. Navigate to the appropriate folders:
+1. Open Prism Launcher and select the Minecraft instance you want to modify, click the `Edit` button.
+![image](https://github.com/user-attachments/assets/dbb9ff8f-56ae-44c1-9541-2b60beb4b98f)
+2. Navigate to the appropriate folders:
+![image](https://github.com/user-attachments/assets/d710eb8d-11cf-48fb-8614-cf58f351b26a)
    - **Configs**: Place `configs` folder in the Minecraft folder.
    - **Mods**: Place `mods` folder in the Minecraft folder.
    - **Shader Packs**: Place `shaderpacks` folder in the Minecraft folder.
    - **Resource Packs**: Place `resourcepacks` folder in the Minecraft folder.
    - **Game Options**: Place `options.txt` folder in the Minecraft folder.
-4. Start the instance and enable the installed mods, shaders, and resource packs in the settings.
+3. Start the instance and enable the installed mods, shaders, and resource packs in the settings.
 
 ### Windows 10/11 (Default Java Launcher)
 1. Press `Win + R`, type `%appdata%`, and press `Enter`.
