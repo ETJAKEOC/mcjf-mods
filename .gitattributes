@@ -705,7 +705,6 @@ config/physicsmod/physics_cloth_config.json filter=lfs diff=lfs merge=lfs -text
 config/sereneseasons/seasons.toml filter=lfs diff=lfs merge=lfs -text
 config/towns_and_towers/structure_rarity_new.json5 filter=lfs diff=lfs merge=lfs -text
 config filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
 shaderpacks filter=lfs diff=lfs merge=lfs -text
 mods/slabstoblocks-fabric-1.21.4-2.jar filter=lfs diff=lfs merge=lfs -text
 mods/BiomesOPlenty-fabric-1.21.4-21.4.0.20.jar filter=lfs diff=lfs merge=lfs -text
