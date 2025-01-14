@@ -1,0 +1,17 @@
+{
+	"suspiciousBlocks": {
+		"smooth_animations": true,
+		"particle": false,
+		"place_items": false,
+	},
+	"blockSounds": {
+		"unpolished_bricks": true,
+		"polished_bricks": true,
+		"polished": true,
+		"polished_basalt": true,
+		"polished_deepslate": true,
+		"polished_tuff": true,
+		"polished_calcite": true,
+		"calcite_bricks": true,
+	},
+}
