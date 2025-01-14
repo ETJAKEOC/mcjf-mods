@@ -5,6 +5,7 @@ Welcome to this repository! This collection contains mods, shader packs, and res
 ## Installation Instructions
 
 ### Prism Launcher - Easy method (Windows/Linux)
+![image](https://github.com/user-attachments/assets/97517f05-70d9-4fb5-91b6-a7544eef6e1a)
 1. Open Prism Launcher and `Add an instance`. Import the `Prism-Instance.zip` file.
 2. Start the instance and enjoy the game!
 
