@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13937aedbf7008e066d480d729d58996fc8bbb97cceeb2e64bea618c8809cd9e
-size 174
+#set to true to use vanilla textures instead of Lootr special textures. Note: this will prevent previously opened chests from rendering differently
+vanilla_textures = false
+

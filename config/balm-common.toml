@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a200148a1d65802310b4a477e2bb76ae4202e16da96edcf62c82ff303911caac
-size 873
+
+# This is an example boolean property
+exampleBoolean = true
+
+# This is an example enum property
+exampleEnum = "Hello"
+
+# This is an example enum list property
+exampleEnumList = [ "Hello", "World" ]
+
+# This is an example int property
+exampleInt = 42
+
+# This is an example int list property
+exampleIntList = [ 12, 24 ]
+
+# This is an example multiline string property
+exampleMultilineString = "Hello World"
+
+# This is an example resource location set property
+exampleResourceLocationSet = [ "minecraft:dirt", "minecraft:diamond" ]
+
+# This is an example string property
+exampleString = "Hello World"
+
+# This is an example string list property
+exampleStringList = [ "Hello", "World" ]
+
+
+# This is an example category
+[exampleCategory]
+
+# This is an example float inside a category
+exampleFloat = 42.84
+
+# This is an example string inside a category
+innerField = "I am inside"
+

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7410aa05bb28180a3d5389fe955affffa7e7842e330385d042eb78e7a73db017
-size 697
+{
+  "verticalScaling": {
+    "desc:": "The amount by which the chunk render distance sphere is stretched vertically. default:2.0, min 0.5, max 10",
+    "verticalScaling": 2.0
+  },
+  "horizontalScaling": {
+    "desc:": "The amount by which the chunk render distance sphere is stretched horizontally. default:1.0, min 0.05, max 2",
+    "horizontalScaling": 1.1
+  },
+  "affectEntities": {
+    "desc:": "Enables the distance stretch to also affect entity rendering, default = true",
+    "affectEntities": true
+  },
+  "debugMode": {
+    "desc:": "Enables debug mode, which displays how many sections are being hidden(A section is an area of 16x16x16 blocks) default:false",
+    "debugMode": false
+  }
+}

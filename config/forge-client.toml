@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aa8b7c20534b4d08b8e75e97c591d6a291482de157fcc9d1f41ae70aca39960c
-size 538
+#Client only settings, mostly things related to rendering
+[client]
+	#EXPERIMENTAL: Enable the Forge block rendering pipeline - fixes the lighting of custom models.
+	experimentalForgeLightPipelineEnabled = false
+	#When enabled, Forge will show any warnings that occurred during loading.
+	showLoadWarnings = true
+	#When enabled, Forge will allow mipmaps to be lowered in real-time. This is the default behavior in vanilla. Use this if you experience issues with resource packs that use textures lower than 8x8.
+	allowMipmapLowering = false

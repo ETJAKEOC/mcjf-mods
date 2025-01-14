@@ -1,3 +1,76 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9724a641cbf3406ed086cb798f3bb2c8e54c6d5753848830cf7dbb501e5ac4b3
-size 1306
+{
+	"statues": {
+		"savanna": [
+			{
+				"location": "explorations:statues/statue_1",
+				"weight": 2
+			},
+			{
+				"location": "explorations:statues/statue_2",
+				"weight": 2
+			},
+			{
+				"location": "explorations:statues/statue_3",
+				"weight": 2
+			},
+			{
+				"location": "explorations:statues/statue_4",
+				"weight": 2
+			}
+		],
+		"snowy": [
+			{
+				"location": "explorations:statues/statue_1",
+				"weight": 3
+			},
+			{
+				"location": "explorations:statues/statue_2",
+				"weight": 3
+			},
+			{
+				"location": "explorations:statues/statue_3",
+				"weight": 3
+			},
+			{
+				"location": "explorations:statues/statue_4",
+				"weight": 3
+			}
+		],
+		"plains": [
+			{
+				"location": "explorations:statues/statue_1",
+				"weight": 2
+			},
+			{
+				"location": "explorations:statues/statue_2",
+				"weight": 2
+			},
+			{
+				"location": "explorations:statues/statue_3",
+				"weight": 2
+			},
+			{
+				"location": "explorations:statues/statue_4",
+				"weight": 2
+			}
+		],
+		"taiga": [
+			{
+				"location": "explorations:statues/statue_1",
+				"weight": 4
+			},
+			{
+				"location": "explorations:statues/statue_2",
+				"weight": 4
+			},
+			{
+				"location": "explorations:statues/statue_3",
+				"weight": 4
+			},
+			{
+				"location": "explorations:statues/statue_4",
+				"weight": 4
+			}
+		]
+	}
+}

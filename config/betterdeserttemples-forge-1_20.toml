@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8fba68f434b5288b51476e67cf24d15c3809c6cf4ad37ea24ed877cfa783dc4
-size 602
+
+["YUNG's Better Desert Temples"]
+
+	###########################################################################################################
+	## General settings.
+	###########################################################################################################
+	["YUNG's Better Desert Temples".General]
+		# Whether or not vanilla desert pyramids should be disabled.
+		# Default: true
+		#
+		"Disable Vanilla Pyramids" = true
+		# Whether or not mining fatigue is applied to players in the desert temple if it has not yet been cleared.
+		# Default: true
+		#
+		"Apply Mining Fatigue" = true
+

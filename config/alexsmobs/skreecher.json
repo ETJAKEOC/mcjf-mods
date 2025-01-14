@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f812e719afb24421c6853dacf4d1f66864305e335cfdf6193613d7c408ecab30
-size 276
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "forge:no_default_monsters"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "alexsmobs:skreechers_can_spawn_wardens"
+      }
+    ]
+  ]
+}

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3fc30fb36ba5fc5cabbecb82aa5a9800d7e30539212ec88246be179ede48f382
-size 448
+
+["YUNG's Better Ocean Monuments"]
+
+	###########################################################################################################
+	## General settings.
+	###########################################################################################################
+	["YUNG's Better Ocean Monuments".General]
+		# Whether or not vanilla ocean monuments should be disabled.
+		# Default: true
+		#
+		"Disable Vanilla Ocean Monuments" = true
+

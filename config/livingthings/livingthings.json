@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b28c313f2632fc458649dfc61d288744f7e07e2ea1f1c22efc9d7cc8c2a505f7
-size 76
+{
+	"ambientMode": false,
+	"doBananaDrops": true,
+	"bananaDropChance": 45.0
+}

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd3544ac3b08f2917e9bc2d8bc3247a047bab0d6763893800f6a2411630dca30
-size 334
+["Trading/Visual"]
+	#Game restart is required for these changes to take effect.
+	#If set to false, Xtra Arrows will not modify Fletcher trades. Trades already generated will still exist.
+	enableFletcherTrades = true
+	#If set to false, the circle formed around some arrows' point of impact will not be shown.
+	enableRangeCircle = true

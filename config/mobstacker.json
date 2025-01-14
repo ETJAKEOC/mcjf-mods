@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:139c465bbe4b20d5b08f8b9b603d4418e49cce6136cc09919f6a8afdc28bf3eb
-size 596
+{
+  "killWholeStackOnDeath": false,
+  "stackHealth": false,
+  "maxMobStackSize": 16,
+  "stackRadius": 6.0,
+  "enableSeparator": false,
+  "consumeSeparator": true,
+  "separatorItem": "minecraft:diamond",
+  "enableAssimilator": false,
+  "consumeAssimilator": true,
+  "assimilatorItem": "minecraft:emerald",
+  "ignoredEntities": [
+    "minecraft:ender_dragon",
+    "minecraft:vex"
+  ],
+  "ignoredMods": [
+    "corpse"
+  ],
+  "mobCaps": {
+    "monster": 25,
+    "creature": 5,
+    "ambient": 7,
+    "axolotls": 2,
+    "undergroundWaterCreature": 2,
+    "waterCreature": 2,
+    "waterAmbient": 8
+  }
+}

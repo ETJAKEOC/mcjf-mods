@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:50a2811ff05b29153359b1df153376298864406b7821cb3cd8c1c7405e4c7226
-size 287
+
+#Dynamic Lights Settings
+[Settings]
+
+	[Settings."Lighting Settings"]
+		"Dynamic TileEntity Lighting" = false
+		"Only Update On Position Change" = true
+		#Allowed Values: OFF, SLOW, FAST, REALTIME
+		"Quality Mode (OFF, SLOW, FAST, REALTIME)" = "OFF"
+		"Dynamic Entity Lighting" = false
+

@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac2687fa7fe2b330238c34618175011a7bb0daa61e551b86be9e0505b1923c3b
-size 641
+{
+	"health": 10.0,
+	"movementSpeed": 0.25,
+	"flyingSpeed": 0.5,
+	"temptRange": 10.0,
+	"maxSpawnedInChunk": 6,
+	"spawnBiomes": [
+		{
+			"weight": 22,
+			"minGroupSize": 3,
+			"maxGroupSize": 6,
+			"biomes": [
+				"minecraft:forest",
+				"minecraft:birch_forest",
+				"minecraft:old_growth_birch_forest",
+				"minecraft:dark_forest",
+				"minecraft:flower_forest",
+				"minecraft:wooded_badlands",
+				"minecraft:taiga",
+				"minecraft:old_growth_pine_taiga",
+				"minecraft:old_growth_spruce_taiga",
+				"minecraft:cherry_grove"
+			]
+		}
+	],
+	"colorWeights": {
+		"colorWhiteWeight": 33,
+		"colorBrownWeight": 33,
+		"colorBlackWeight": 33
+	}
+}

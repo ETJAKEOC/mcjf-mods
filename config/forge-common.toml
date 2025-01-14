@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c35f0ff871fa9486afed39e1da3540affc2a18c6b121092e5fecb732c27b48bd
-size 278
+#General configuration settings
+[general]
+	#A config option to help developers find known legacy modded tags that have common convention equivalents when running on integrated server. Defaults to OFF.
+	#Allowed Values: OFF, ONLY_IN_DEV_ENV, ALWAYS
+	logLegacyTagWarnings = "OFF"

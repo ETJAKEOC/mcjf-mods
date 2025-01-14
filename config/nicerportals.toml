@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:abce2b97bae5e8abda83671148741fa1d15cecb2ba3110ce1e9e2212f8a002f6
-size 180
+# Config version is auto-generated
+# DO NOT CHANGE
+configVersion = 3
+# Whether to makes portals emit only one sound when they 
+# break.
+# Client-side only.
+dedupeBreakSound = true

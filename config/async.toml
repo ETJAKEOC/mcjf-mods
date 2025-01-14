@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:123f88f7652bb600a9b90d94f678227b48bc00d4a74adedde1a22e33e31262e0
-size 712
+#Globally disable all toggleable functionality within the async system. Set to true to stop all asynchronous operations.
+disabled = false
+#Maximum number of threads to use for parallel processing. Set to -1 to use default value. Note: If 'virtualThreads' is enabled, this setting will be ignored.
+paraMax = -1
+#Modifies entity movement processing: true for synchronous movement (vanilla mechanics intact, less performance), false for asynchronous movement (better performance, may break mechanics).
+enableEntityMoveSync = false
+#List of entity class for sync processing.
+synchronizedEntities = ["minecraft:item", "minecraft:experience_orb", "minecraft:tnt"]

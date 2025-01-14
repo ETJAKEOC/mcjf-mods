@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a2160cf0025a1f96e89494d251d0c4317eb10b2c6f566ee0346fa0529d9b51a
-size 1210
+version = 1
+enableSodiumMenu = true
+dontCull = []
+cloudCulling = true
+signTextCulling = true
+rainCulling = true
+useBlockStateCulling = true
+useCustomItemFrameRenderer = true
+itemFrameMapCulling = true
+useItemFrameLOD = true
+itemFrameLODRange = 16
+useItemFrame3FaceCulling = true
+itemFrame3FaceCullingRange = 2.0
+paintingCulling = true
+leavesCullingMode = "FAST"
+leavesCullingAmount = 2
+includeMangroveRoots = true
+endGatewayCulling = true
+beaconBeamCulling = true
+useOnModdedBlocksByDefault = true
+
+[modCompatibility]
+glow_ink_plus = true
+universal_ores = true
+nemos_copper = true
+simple_copper_pipes = true
+mo_glass = true
+colorizer = true
+enchanted-vertical-slabs = true
+resource_nether_ores = true
+dragonscalemod = true
+terrestria = true
+laserbridges = true
+enderitemod = true
+additionallanterns = true
+polydecorations = true
+resource_backpacks = true
+sereneseasons = true
+copperhopper = true
+minecraft = true
+animal_feeding_trough = true
+lootr = true
+integrated_circuit = true
+the_afterdark = true
+crying = true
+bucketfiller = true
+polyfactory = true
+ore_creeper = true
+waystones = true
+wilderwild = true
+chunkloaders = true
+flopper = true
+livingthings = true
+biomesoplenty = true
+advancednetherite = true

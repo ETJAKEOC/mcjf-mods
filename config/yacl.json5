@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820
-size 35
+{
+	showColorPickerIndicator: true
+}

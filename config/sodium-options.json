@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bb497211e9f81792b25b5ac9e85703490df631964aefa1223088cf8e9035c036
-size 659
+{
+  "quality": {
+    "weather_quality": "FAST",
+    "leaves_quality": "FAST",
+    "enable_vignette": false
+  },
+  "advanced": {
+    "enable_memory_tracing": false,
+    "use_advanced_staging_buffers": true,
+    "cpu_render_ahead_limit": 9
+  },
+  "performance": {
+    "chunk_builder_threads": 4,
+    "always_defer_chunk_updates_v2": true,
+    "animate_only_visible_textures": true,
+    "use_entity_culling": true,
+    "use_fog_occlusion": true,
+    "use_block_face_culling": true,
+    "use_no_error_g_l_context": true,
+    "sorting_enabled_v2": true
+  },
+  "notifications": {
+    "has_cleared_donation_button": false,
+    "has_seen_donation_prompt": true
+  }
+}

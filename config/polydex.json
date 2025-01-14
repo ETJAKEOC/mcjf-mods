@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c187bd34623b3c8ec42d93ca749ca74a2a3fcbeebc6c4b145d3e5643ff3d4050
-size 852
+{
+  "displayEnabled": true,
+  "displayUpdateRate": 4,
+  "displayCantMine": true,
+  "displayModSource": true,
+  "displayAdditional": true,
+  "displayMiningProgress": true,
+  "displayEntity": true,
+  "displayEntityHealth": true,
+  "default_hover_settings": {
+    "display_type": "polydex:bossbar",
+    "display_mode": "TARGET",
+    "visible_components": {
+      "polydex:fuel": "NEVER",
+      "polyfactory:debug_data": "NEVER",
+      "polydex:raw_id": "NEVER",
+      "polydex:input": "NEVER",
+      "polyfactory:machine_state": "ALWAYS",
+      "polydex:effects": "ALWAYS",
+      "polydex:output": "NEVER",
+      "polydex:progress": "ALWAYS",
+      "polydex:name": "ALWAYS",
+      "polydex:health": "ALWAYS",
+      "polyfactory:filled_amount": "ALWAYS",
+      "polydex:mod_source": "NEVER"
+    }
+  },
+  "displayPredicate": {
+    "type": "has_player"
+  }
+}

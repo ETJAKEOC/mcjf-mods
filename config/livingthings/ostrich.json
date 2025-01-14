@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b57296d1311ac020d0c49634ee446b468627b9aed97cb148172a3a3f3ea5d83
-size 314
+{
+	"health": 20.0,
+	"movementSpeed": 0.25,
+	"temptRange": 10.0,
+	"canBeRidden": true,
+	"maxSpawnedInChunk": 5,
+	"spawnBiomes": [
+		{
+			"weight": 15,
+			"minGroupSize": 3,
+			"maxGroupSize": 5,
+			"biomes": [
+				"minecraft:savanna",
+				"minecraft:savanna_plateau",
+				"minecraft:windswept_savanna"
+			]
+		}
+	]
+}

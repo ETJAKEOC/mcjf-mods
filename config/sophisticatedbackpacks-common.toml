@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b377e97ca3d8ae8560448b92ab820872d7c11bef0ca52dcf3f4901b44c6ddca7
-size 116
+
+#Common Settings
+[common]
+	#Turns on/off loot added to various vanilla chest loot tables
+	chestLootEnabled = true
+

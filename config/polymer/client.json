@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8a4e36c8c4df8c5612aa9485d6a2e7a43cb2aa7f1584a52bb6373d6c94037c4
-size 587
+{
+  "_c4": "Toggles visibility of F3 debug info",
+  "displayF3Info": true,
+  "_c5": "Enables logging of invalid registry ids (BlockStates, Blocks, Items, etc) sent by server",
+  "logInvalidServerEntryIds": false,
+  "_c6": "Disables Polymer's QoL changes that effects non-visual things",
+  "disableNonVisualQualityOfLifeChanges": false,
+  "_c7": "Enables experimental support for less standard modded containers, allowing them to display polymer items",
+  "experimentalModdedContainerSupport": true,
+  "_c11": "Makes polymer report time it's handshake took",
+  "logHandshakeTime": false
+}

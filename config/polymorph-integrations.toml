@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47c2b8a65ca08ee0a73400bf6b8ccc0a831b4c220fa95097eff6216456fc511a
-size 327
+# Please be aware that enabling any third-party mod integration introduces instability and performance overheads, caution is strongly advised.
+# If crashes or issues arise, disable the related modules as the first step in troubleshooting and report the issue to Polymorph.
+fastfurnace = true
+fastsuite = true
+fastbench = true
+

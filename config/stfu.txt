@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f21fe37ef7bcff0d93cc832be63d547ee7837b2becbde849528e59bddcedc9c3
-size 71
+announceAdvancements:true
+adminChat:0
+maxChatHistory:100
+compactChat:1

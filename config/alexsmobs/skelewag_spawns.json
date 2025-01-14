@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86aad88d05c283679e85900cab1bf3977d496849005ac068a14e40b93db35aa2
-size 374
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "forge:no_default_monsters"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "minecraft:is_overworld"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "minecraft:is_deep_ocean"
+      }
+    ]
+  ]
+}

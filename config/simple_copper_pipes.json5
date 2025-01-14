@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9c4c3095334e9e9ba9d018cddbdc37842b8f93ed18a66b468bc53a778069252
-size 189
+{
+	"openableFittings": false,
+	"dispensing": true,
+	"dispenseSounds": true,
+	"suctionSounds": true,
+	"senseGameEvents": true,
+	"carryWater": true,
+	"carryLava": true,
+	"carrySmoke": true,
+}

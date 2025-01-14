@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7fe433f06c9e1af193d781179862afa088b1c9947d6f94474feaba20e335da2e
-size 213
+{
+  "singleplayerTpMethod": "/tp",
+  "serverTpMethod": "/tppos",
+  "tpThroughRange": 256,
+  "tpOnTopRange": 256,
+  "tpForwardRange": 100,
+  "allowCrawling": false,
+  "allowLava": false,
+  "setBedrockLimit": true
+}

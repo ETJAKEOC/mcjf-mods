@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:50b2de902c83be25a685aeb72490dce1fe065294de5cb549f25512ba5561fa42
-size 226
+{
+	// The euclidian distance range around the drowned where a check for a player with the conduit effect is done. A value of 400 prevents the spawning of all drowned around.
+	// min: 0, max: 400
+	"preventDrownedInRange": 400
+}

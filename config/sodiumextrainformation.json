@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:deb106d540d6c8da489169d8bce2170622ffae05c111eb14a46f5f46cbc2aaf8
-size 333
+{
+  "extra_information_settings": {
+    "show_local_time": true,
+    "local_time_format": "HH:mm",
+    "show_word_time": true,
+    "show_session_time": true,
+    "show_memory_usage": true,
+    "show_memory_usage_extended": true,
+    "show_total_entity_count": false,
+    "shows_rendered_entities": false,
+    "show_biome": true
+  }
+}

@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d09a9d87fedc26c549be3fc23f66a91afe6d55214bc4ead5ea5beb12ec2ea347
-size 829
+{
+	displayAxolotlVariants: true,
+	displayDayNumber: false,
+	displayMaps: true,
+	displayMoonPhase: false,
+	displayPaintings: true,
+	displaySpawnEgg: false,
+	displayUsesLeft: false,
+	updateEnchantmentTooltips: true,
+	updatePotionTooltips: true,
+	updateTippedArrowTooltips: true,
+	containerEntries: 6,
+	percentageDigits: 0,
+	clockTimeDisplay: "TWELVE_HOUR",
+	compassDisplay: "DISTANCE",
+	containerStyle: "LIST_PER_ITEM",
+	updateCrossbowTooltips: "WHITE_ITEM_TEXT",
+	durabilityStyle: "PERCENTAGE",
+	foodEffectDisplay: "POSITIVE_EFFECTS_ONLY",
+	stewEffectDisplay: "CREATIVE_ONLY",
+	nourishmentIconLocation: "BELOW",
+	instrumentDisplay: "WHILE_CARRYING_NOTE_BLOCKS",
+	nourishmentDisplay: "NUTRITION_ONLY",
+	nourishmentStyle: "TEXT",
+	modifierDisplay: "ENABLED",
+	otherEffectDisplay: "ENABLED",
+	repairCostDisplay: "ON_RELEVANT_MENUS"
+}

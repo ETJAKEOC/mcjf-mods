@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9290c8379f50f05de2afa68335c01b8d6c99ea5db16524a624c74525c4182c44
-size 72
+{
+  "enable_mod": true,
+  "min_durability": 1,
+  "items": {
+
+  }
+}

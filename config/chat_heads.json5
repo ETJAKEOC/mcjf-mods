@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2
-size 186
+{
+	"renderPosition": "BEFORE_NAME",
+	"offsetNonPlayerText": true,
+	"senderDetection": "UUID_AND_HEURISTIC",
+	"smartHeuristics": true,
+	"handleSystemMessages": true,
+	"nameAliases": { }
+}

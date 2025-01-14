@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b3525e17a7c7288314f6bffe859db4258fbbd724a6a93f3ad104df781740c295
-size 55
+#Energy Factor
+#Range: 0.0 ~ 1.0
+EnergyFactor = 0.334
+

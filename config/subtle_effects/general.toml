@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:507e2fc3f4972818dc3378dec7fa2abf88a4c04738b1a488622162db0ff92015
-size 225
+# Don't change this! Version used to track needed updates.
+version = 0
+mobSkullShaders = false
+particleRenderDistance = 5
+cullParticlesWithNoAlpha = true
+cullParticlesInUnloadedChunks = true
+sparksScale = 1.0
+fireHeight = 0.0

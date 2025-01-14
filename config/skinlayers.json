@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d
-size 430
+{
+  "enableHat": true,
+  "enableJacket": true,
+  "enableLeftSleeve": true,
+  "enableRightSleeve": true,
+  "enableLeftPants": true,
+  "enableRightPants": true,
+  "baseVoxelSize": 1.15,
+  "bodyVoxelWidthSize": 1.05,
+  "headVoxelSize": 1.18,
+  "renderDistanceLOD": 14,
+  "enableSkulls": true,
+  "enableSkullsItems": true,
+  "skullVoxelSize": 1.1,
+  "fastRender": true,
+  "compatibilityMode": false,
+  "firstPersonPixelScaling": 1.1
+}

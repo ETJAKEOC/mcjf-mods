@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c9b45bdc65eab43ed6015462606491f3e91a8ba08961dfce849f4c0bc6f8bab
-size 298
+{
+	// Basically enables the mod. If players should not receive damage when walking through berry bushes.
+	"negateBushDamageForPlayers": true,
+	// If players should wear anything in the leggings armour slot in order to not receive damage from berry bushes.
+	"mustWearLeggingsToDisableDamage": true
+}

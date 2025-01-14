@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7867f84eff68a159b630c1f1be013b60e88be0ee07f4fb1371f7823f494124c8
-size 428
+
+["YUNG's Better Witch Huts"]
+
+	###########################################################################################################
+	## General settings.
+	###########################################################################################################
+	["YUNG's Better Witch Huts".General]
+		# Whether or not vanilla witch huts should be disabled.
+		# Default: true
+		#
+		"Disable Vanilla Witch Huts" = true
+

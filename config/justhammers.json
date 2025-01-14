@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d50b4983dc91105c40049396b95c25a1198e5ad4d36d4d2cc14970dbbc73e8e
-size 428
+{
+  "disabledDurabilityTooltip": {
+    "value": false,
+    "_comment": "Set to true to disable the durability tooltip on hammers"
+  },
+  "durabilityRepairPercentage": {
+    "value": 33.33,
+    "_comment": "The percentage of durability restored per repair item"
+  },
+  "durabilityRepairPercentageNetherite": {
+    "value": 100.0,
+    "_comment": "The percentage of durability restored per repair item for netherite hammers"
+  }
+}

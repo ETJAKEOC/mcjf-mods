@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cb9521e723928d3c42471dc888b9d3244a1bba2c19aec06e9a2cfc7e24e0a682
-size 798
+{
+    "isEnabledByDefault": true,
+    "defaultFormat": {
+        "text": "",
+        "extra": [
+            {
+                "text": "XYZ: ",
+                "color": "gold"
+            },
+            {
+                "text": "%player:pos_x 0% %player:pos_y 0% %player:pos_z 0%   ",
+                "color": "white"
+            },
+            {
+                "text": "%coords-hud:compass_icon% ",
+                "color": "gold"
+            },
+            {
+                "text": "%coords-hud:compass_facing%   ",
+                "color": "white"
+            },
+            {
+                "text": "%coords-hud:time_icon% ",
+                "color": "gold"
+            },
+            {
+                "text": "%world:time%",
+                "color": "white"
+            }
+        ]
+    }
+}

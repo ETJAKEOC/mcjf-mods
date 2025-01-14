@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d393c401f8a4cd40fd7fa20b0ff7fe4bb5ec6f9d7d6b03a4136ecd5005c78b63
-size 196
+{
+  "enabled": false,
+  "port": 7903,
+  "validator": {
+    "uuids": [],
+    "if": {
+      "password": "e85b3ca9-e292-4097-809a-8c74b63d290a",
+      "type": "password"
+    },
+    "type": "if"
+  }
+}

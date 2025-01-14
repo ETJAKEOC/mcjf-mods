@@ -1,3 +1,85 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d199a4186f410aa727966cc5f70b1981ed48bc29434f5cc6394a209eb0359934
-size 4567
+["Disable/Modify Arrows"]
+	#Save these changes while world is not open.
+	#If set to false, iron arrows will fire as if they were vanilla flint arrows.
+	enableIronArrows = true
+	#If set to false, golden arrows will fire as if they were vanilla flint arrows.
+	enableGoldenArrows = true
+	#If set to false, diamond arrows will fire as if they were vanilla flint arrows.
+	enableDiamondArrows = true
+	#If set to false, netherite arrows will fire as if they were vanilla flint arrows.
+	enableNetheriteArrows = true
+	#If set to false, explosive arrows will fire as if they were vanilla flint arrows.
+	enableExplosiveArrows = true
+	#If set to false, explosions from explosive arrows will not damage blocks.
+	explosiveArrowsDamageBlocks = true
+	#Defines the radius of the explosions caused by explosive arrows.
+	#Range: 0.0 ~ 1000.0
+	explosiveArrowsRadius = 2.5
+	#If set to false, lightning arrows will fire as if they were vanilla flint arrows.
+	enableLightningArrows = true
+	#If set to true, the lightning spawned by lightning arrows will have no impact on the world or the entities in it. It will be only appear visually.
+	lightningArrowsVisualOnly = false
+	#If set to false, the lightning spawned by lightning arrows will not cause fire at the point of impact.
+	lightningArrowsCauseFire = true
+	#If set to false, torch arrows will fire as if they were vanilla flint arrows.
+	enableTorchArrows = true
+	#If set to false, redstone torch arrows will fire as if they were vanilla flint arrows.
+	enableRedstoneTorchArrows = true
+	#If set to false, soul torch arrows will fire as if they were vanilla flint arrows.
+	enableSoulTorchArrows = true
+	#If set to false, slime arrows will fire as if they were vanilla flint arrows.
+	enableSlimeArrows = true
+	#Defines the bounce multiplier of slime arrows.
+	#Range: 0.0 ~ 1000.0
+	slimeArrowsBounceMultiplier = 10.0
+	#Defines how many times slime arrows bounce before coming to a stop.
+	#Range: 0 ~ 1000
+	slimeArrowsBounceAmount = 5
+	#If set to false, ender arrows will fire as if they were vanilla flint arrows.
+	enableEnderArrows = true
+	#Defines fall damage caused by teleportation from ender arrows.
+	#Range: 0.0 ~ 1000.0
+	enderArrowFallDamage = 2.0
+	#If set to false, vexing arrows will fire as if they were vanilla flint arrows.
+	enableVexingArrows = true
+	#Defines how many times a vexing arrow will phase through connected blocks before coming to a stop.
+	#Range: 0 ~ 1000
+	vexingPhaseAmount = 1
+	#If set to false, tracking arrows will fire as if they were vanilla flint arrows.
+	enableTrackingArrows = true
+	#If set to false, atlantean arrows will fire as if they were vanilla flint arrows.
+	enableAtlanteanArrows = true
+	#Defines underwater inertia for atlantean arrows.
+	#Range: 0.0 ~ 0.99
+	atlanteanInertia = 0.99
+	#If set to false, freezing arrows will fire as if they were vanilla flint arrows.
+	enableFreezingArrows = true
+	#If set to false, gravity arrows will fire as if they were vanilla flint arrows.
+	enableGravityArrows = true
+	#If set to false, lantern arrows will fire as if they were vanilla flint arrows.
+	enableLanternArrows = true
+	#If set to false, soul lantern arrows will fire as if they were vanilla flint arrows.
+	enableSoulLanternArrows = true
+	#If set to false, life steal arrows will fire as if they were vanilla flint arrows.
+	enableLifeStealArrows = true
+	#Defines amount of health life steal arrows will steal from target. 1 = 1/6 Current Health, 2 = 1/5 Current Health, 3 = 1/4 Current Health, 4 = 1/3 Current Health
+	#Range: 1 ~ 4
+	lifeStealAmount = 1
+	#If set to false, magnetic arrows will fire as if they were vanilla flint arrows.
+	enableMagneticArrows = true
+	#If set to false, breeding arrows will fire as if they were vanilla flint arrows.
+	enableBreedingArrows = true
+	#If set to false, Cupid's arrows will fire as if they were vanilla flint arrows.
+	enableCupidsArrows = true
+	#If set to false, apple arrows will fire as if they were vanilla flint arrows.
+	enableAppleArrows = true
+	#If set to false, golden apple arrows will fire as if they were vanilla flint arrows.
+	enableGoldenAppleArrows = true
+	#If set to false, enchanted golden apple arrows will fire as if they were vanilla flint arrows.
+	enableEnchantedGoldenAppleArrows = true
+	#If set to false, incendiary arrows will fire as if they were vanilla flint arrows.
+	enableIncendiaryArrows = true
+	#If set to false, extinguishing arrows will fire as if they were vanilla flint arrows.
+	enableExtinguishingArrows = true
+	#If set to false, leashing arrows will fire as if they were vanilla flint arrows.
+	enableLeashingArrows = true

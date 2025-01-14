@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:037c45a702552f5f239fca56fb5f9e85102ed37a0b2c4de7f2631dc9dc448468
-size 599
+{
+	// The chance a zombie that has spawned on the surface is a giant.
+	// min: 0.0, max: 1.0
+	"chanceSurfaceZombieIsGiant": 0.05,
+	// If enabled, burns giants when daylight shines upon them.
+	"shouldBurnGiantsInDaylight": true,
+	// If enabled, a giant will only spawn on the surface.
+	"onlySpawnGiantOnSurface": true,
+	// The giant movement speed modifier relative to the base zombie movement speed.
+	// min: 0.0, max: 20.0
+	"giantMovementSpeedModifier": 1.0,
+	// The giant attack damage modifier relative to the base zombie attack damage.
+	// min: 0.0, max: 20.0
+	"giantAttackDamageModifier": 2.0
+}

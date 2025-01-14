@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:77483f1285fcae10b67d34720228262c70ebf725478079784dc35b0c8ea08c05
-size 233
+{
+	"projectileLandingSounds": {
+		"snowballLandingSounds": true,
+		"eggLandingSounds": true,
+		"enderPearlLandingSounds": true,
+		"potionLandingSounds": true,
+	},
+	"projectileBreakParticles": true,
+	"restrictInstrumentSound": true,
+}

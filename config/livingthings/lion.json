@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8e22e008016bfda749c41ef39f65f234c5300df74092e56f238a416ab130070b
-size 497
+{
+	"canAttack": true,
+	"health": 20.0,
+	"movementSpeed": 0.33,
+	"attackDamage": 5.0,
+	"temptRange": 10.0,
+	"maxSpawnedInChunk": 4,
+	"allowAllMeatAsFood": true,
+	"spawnBiomes": [
+		{
+			"weight": 12,
+			"minGroupSize": 2,
+			"maxGroupSize": 4,
+			"biomes": [
+				"minecraft:savanna",
+				"minecraft:savanna_plateau",
+				"minecraft:windswept_savanna"
+			]
+		}
+	],
+	"genderWeights": {
+		"maleWeight": 50,
+		"femaleWeight": 50
+	},
+	"colorWeights": {
+		"color1Weight": 99,
+		"colorWhiteWeight": 1
+	}
+}

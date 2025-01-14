@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f
-size 146
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "minecraft:is_deep_ocean"
+      }
+    ]
+  ]
+}

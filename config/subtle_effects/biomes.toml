@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e1a7c663cc1131d23346a8db2b3d1059985020ce7d71b7eece89acf61974a16
-size 466
+# Don't change this! Version used to track needed updates.
+version = 0
+biomeColorRain = true
+biomeParticlesRadius = 32
+mushroomSporeBiomes = [
+    "minecraft:mushroom_fields"
+]
+mushroomSporeDensity = 10
+fireflyBiomes = [
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp"
+]
+fireflyDensity = 6
+pollenBiomes = [
+    "minecraft:flower_forest",
+    "minecraft:sunflower_plains"
+]
+pollenDensity = 50
+sculkDustBiomes = [
+    "minecraft:deep_dark"
+]
+sculkDustDensity = 5

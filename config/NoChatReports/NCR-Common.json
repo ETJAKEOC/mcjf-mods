@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0
-size 230
+{
+  "demandOnClientMessage": "You do not have No Chat Reports, and this server is configured to require it on client!",
+  "demandOnClient": false,
+  "convertToGameMessage": true,
+  "addQueryData": true,
+  "enableDebugLog": false
+}

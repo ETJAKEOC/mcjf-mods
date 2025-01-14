@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4
-size 320
+
+# IDs of mods whose compatibility should be disabled.
+disabledCompat = [  ]
+
+# Set to true to have KleeSlabs dump a list of items containing the word 'slab' in their name upon world load
+dumpSlabs = false
+
+# Control whether KleeSlabs should trigger ALWAYS, ONLY_WHEN_SNEAKING or ONLY_WHEN_NOT_SNEAKING
+mode = "ALWAYS"
+

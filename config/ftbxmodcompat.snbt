@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:774631c740366a8dfef9c646d5f60a9939299f3627180ab9ac4d540c76af4081
-size 508
+{
+	# Select the permissions implementation to use
+	# DEFAULT: use FTB Ranks then Luckperms in preference order, depending on mod availability
+	# Default: "default"
+	# Valid values: "default", "ftb_ranks", "luckperms"
+	permission_selector: "default"
+	
+	# Select the game stages implementation to use
+	# DEFAULT: use KubeJS, Game Stages, vanilla in preference order, depending on mod availability
+	# Default: "default"
+	# Valid values: "default", "vanilla", "kubejs", "gamestages"
+	stage_selector: "default"
+}

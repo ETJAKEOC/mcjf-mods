@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a87000e50073b8115efe5e2c347c0a9108df8e542d2b3e369faa7a3123616a7d
-size 232
+{
+  "defaultService": "Modrinth",
+  "fullResThumbnail": false,
+  "openLinkInResourcify": true,
+  "adsEnabled": true,
+  "resourcePacksEnabled": true,
+  "dataPacksEnabled": true,
+  "shaderPacksEnabled": true,
+  "worldsEnabled": true
+}

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12e21e8f6b4f99c727bf907935dbc7140cfd8e332f494e067f1c5fb7077b98d2
-size 419
+
+[Client]
+	#Displays Nature's Compass information even while chat is open.
+	displayWithChatOpen = true
+	#Fixes biome names by adding missing spaces. Ex: ForestHills becomes Forest Hills
+	fixBiomeNames = true
+	#The line offset for information rendered on the HUD.
+	#Range: 0 ~ 50
+	overlayLineOffset = 1
+	#The side for information rendered on the HUD. Ex: LEFT, RIGHT
+	#Allowed Values: LEFT, RIGHT
+	overlaySide = "LEFT"
+

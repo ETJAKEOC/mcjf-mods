@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9244b9abd29f472368d907e71198ed457d4e25af0eac634497f1dd9a25630f1e
-size 257
+{
+  "showHud": false,
+  "hudColor": 15658734,
+  "hudBackgroundColor": 0,
+  "showFps": true,
+  "showCoords": true,
+  "showDirection": true,
+  "showLightLevel": true,
+  "showBiome": true,
+  "showTime": true,
+  "conciseCoords": true,
+  "showBackground": true
+}

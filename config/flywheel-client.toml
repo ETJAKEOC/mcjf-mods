@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a70d58a4a562c2aa2945a3883d35fa3a8e90d80eab9d6b2db3be6103f71b9b2
-size 266
+#Select the backend to use.
+#Allowed Values: OFF, BATCHING, INSTANCING
+backend = "INSTANCING"
+#Enable or disable a debug overlay that colors pixels by their normal.
+debugNormals = false
+#Enable or disable instance update limiting with distance.
+limitUpdates = true
+

@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32a820384fa7b12325a1a4f9fe6748368ae2cf9edc787721195039dd5363e5ea
-size 43
+{
+	"canMixDifferentProtectionTypes": true
+}

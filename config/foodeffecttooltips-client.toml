@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c6e956f320628a286acbc3513cabe44338c0427609eae7349a19544d18b417f
-size 279
+
+["food effects tooltip"]
+	#Show suspicious stew food effects tooltips
+	showSuspiciousStewTooltips = false
+	#Use Lists as Whitelists instead.
+	whitelistInstead = false
+	#Blacklisted Item.
+	blacklistItems = ["modid:testitem"]
+	#Blacklisted Mod IDs.
+	blacklistModsIDs = ["modid"]
+

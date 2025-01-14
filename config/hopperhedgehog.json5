@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10e855b79b1d4434ea1c476acb8fcc08367c17875e1bb3ac13bd7ba81f7e39eb
-size 144
+{
+	"HopperFunctions": true,
+	"ItemDispenserFunctions": false,
+	"TransferSpeed": 8,
+	"InputAmount": 1,
+	"OutputAmount": 1,
+	"DispenseAmount": 1
+}

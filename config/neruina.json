@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8407c81c41d227c7f734ba5abafff9f5c3c533b66a9695e5d5f04afdcedeacd
-size 217
+{
+  "broadcast_errors": true,
+  "handle_ticking_entities": true,
+  "handle_ticking_block_entities": true,
+  "handle_ticking_block_states": true,
+  "handle_ticking_item_stacks": true,
+  "handle_ticking_players": true
+}

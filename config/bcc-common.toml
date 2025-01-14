@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b8b739119da61fca0fb52d06ce813c8362f967bb9a0396cd5f6feb240182cdc0
-size 356
+
+#General settings
+[general]
+	#The CurseForge project ID for the modpack
+	#Range: > 0
+	modpackProjectID = 0
+	#The name of the modpack
+	modpackName = "PLEASE_CHANGE_ME"
+	#The version of the modpack
+	modpackVersion = "CHANGE_ME"
+	#Use the metadata.json to determine the modpack version
+	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
+	useMetadata = false
+

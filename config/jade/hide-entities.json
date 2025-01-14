@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a
-size 309
+{
+  "__comment": "This is a blocklist for the target of Jade. You can add registry ids to the \"values\" list. Restart the game to apply changes.",
+  "values": [
+    "minecraft:area_effect_cloud",
+    "minecraft:firework_rocket",
+    "minecraft:interaction",
+    "minecraft:text_display"
+  ],
+  "version": 1
+}

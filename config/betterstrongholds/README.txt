@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13c5f6bd52bf778533a100453d8b295802f923109e0a2951446a00674113700b
-size 707
+This directory is for a few additional options for YUNG's Better Strongholds.
+Options provided may vary by version.
+This directory contains subdirectories for supported versions. The first time you run Better Strongholds, a version subdirectory will be created if that version supports advanced options.
+For example, the first time you use Better Strongholds for MC 1.16 on Forge, the 'forge-1_16' subdirectory will be created in this folder.
+If no subdirectory for your version is created, then that version probably does not support the additional options.
+
+NOTE -- MOST OPTIONS CAN BE FOUND IN A CONFIG FILE OUTSIDE THIS FOLDER!
+For example, on Forge 1.16 the file is 'betterstrongholds-forge-1_16.toml'.

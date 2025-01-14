@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:58f7821842631af9ec8bcaddb60526b81cd1b9ad63cbba87c83c70e53c3a9b16
-size 328
+#.
+#Register integration tracks for mods that are not present
+#[@cui:RequiresReload:both]
+registerMissingTracks = false
+#.
+#Disable Steam 'n' Rails datafixers. Do not enable this config if your world contains pre-Create 0.5.1 monobogeys, because then they will be destroyed
+#[@cui:RequiresReload:both]
+disableDatafixer = false
+

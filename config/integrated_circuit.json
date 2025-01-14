@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c06af0de12a9f0c6299275d41603414bd3e47e0ff644923d4cc16dc147608a7f
-size 332
+{
+  "place_component": {
+    "code": 1,
+    "type": 2
+  },
+  "destroy_component": {
+    "code": 0,
+    "type": 2
+  },
+  "pick_component": {
+    "code": 2,
+    "type": 2
+  },
+  "rotate_component": {
+    "code": 82,
+    "type": 0
+  },
+  "scroll_behaviour": "ROTATE",
+  "invert_scroll_direction": false,
+  "render_circuit_name": true
+}

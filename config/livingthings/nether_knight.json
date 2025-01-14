@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33cedddff83e98b8e157b60422f5b1b6f3ad1bf4a5f997f2f651dc3a7aa0b21e
-size 494
+{
+	"canAttack": true,
+	"health": 180.0,
+	"movementSpeed": 0.26,
+	"attackDamage": 10.0,
+	"weaponDropChance": 15.0,
+	"spawning": {
+		"spawnWeight": 15,
+		"minSpawnCount": 1,
+		"maxSpawnCount": 2
+	},
+	"weaponNames": {
+		"swordNames": [
+			"Edge of Suffering",
+			"Dragon\u0027s Curse",
+			"The Soul Harvester",
+			"Bloodseeker",
+			"Soul Reaper",
+			"Doomblade"
+		],
+		"axeNames": [
+			"Demonic Soul Collector",
+			"The Reaper\u0027s Scythe",
+			"The Soul Reaper",
+			"The Soul Collector"
+		]
+	}
+}
