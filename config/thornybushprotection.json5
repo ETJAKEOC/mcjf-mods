@@ -1,6 +1,0 @@
-{
-	// Basically enables the mod. If players should not receive damage when walking through berry bushes.
-	"negateBushDamageForPlayers": true,
-	// If players should wear anything in the leggings armour slot in order to not receive damage from berry bushes.
-	"mustWearLeggingsToDisableDamage": true
-}

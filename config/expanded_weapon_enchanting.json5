@@ -1,7 +1,0 @@
-{
-	"canUseImpalingOnWeapon": true,
-	"canUseDensityOnWeapon": true,
-	"canUseBreachOnWeapon": true,
-	"canUseWindBurstOnWeapon": true,
-	"canMixDifferentWeaponEnchantmentTypes": true
-}

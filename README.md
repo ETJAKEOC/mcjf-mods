@@ -10,6 +10,8 @@ Welcome to this repository! This collection contains mods, shader packs, and res
 ![image](https://github.com/user-attachments/assets/97517f05-70d9-4fb5-91b6-a7544eef6e1a)
 2. Start the instance and enjoy the game!
 
+## For the following options, please extract the `Prism-Instance.zip` file.
+
 ### Prism Launcher - Manual method (Windows/Linux)
 1. Open Prism Launcher and select the Minecraft instance you want to modify, click the `Edit` button.
 ![image](https://github.com/user-attachments/assets/dbb9ff8f-56ae-44c1-9541-2b60beb4b98f)

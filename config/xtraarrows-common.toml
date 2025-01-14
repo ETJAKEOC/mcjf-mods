@@ -1,6 +1,0 @@
-["Trading/Visual"]
-	#Game restart is required for these changes to take effect.
-	#If set to false, Xtra Arrows will not modify Fletcher trades. Trades already generated will still exist.
-	enableFletcherTrades = true
-	#If set to false, the circle formed around some arrows' point of impact will not be shown.
-	enableRangeCircle = true

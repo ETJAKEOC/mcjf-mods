@@ -1,7 +1,0 @@
-# Config version is auto-generated
-# DO NOT CHANGE
-configVersion = 3
-# Whether to makes portals emit only one sound when they 
-# break.
-# Client-side only.
-dedupeBreakSound = true
